@@ -1,0 +1,110 @@
+============================================================
+Timestamp: 2025-11-12 19:38:02
+Target PCD: /home/xchu/Downloads/ltloc-results/simulated_pc/shifted_cylinder/measured_cloud_shifted_cylinder.pcd
+Source PCD: <generated from target>
+Use FPFH: False
+Initial Pose: (0.2, 0.8, 0.5, 0.1, 0.1, 2.0)
+Force GT Identity: True
+Matcher Iterations: 30
+Normal KNN: 5, Search Radius: 1.0 m
+--- Transform ---
+   1.000000 -0.000051 -0.000549 -0.224933
+   0.000052  0.999999  0.000714 -0.786384
+   0.000549 -0.000714  0.999999 -0.510397
+   0.000000  0.000000  0.000000  1.000000
+--- Metrics ---
+Rotation Error (deg): 0.068528
+Translation Error (m): 0.964106
+Chamfer Distance (m): 1.093327
+RMSE (m): 0.140047
+Fitness: 0.091907
+Inlier Count: 695
+Runtime (ms): 11665.858
+============================================================
+Timestamp: 2025-11-12 19:46:46
+Target PCD: /home/xchu/Downloads/ltloc-results/simulated_pc/shifted_cylinder/measured_cloud_shifted_cylinder.pcd
+Source PCD: <generated from target>
+Use FPFH: False
+Initial Pose: (0.2, 0.8, 0.5, 0.1, 0.1, 2.0)
+Force GT Identity: True
+Matcher Iterations: 30
+Normal KNN: 5, Search Radius: 1.0 m
+--- Transform ---
+   0.999999  0.000489 -0.001153 -0.215423
+  -0.000487  0.999999  0.001453 -0.792242
+   0.001154 -0.001452  0.999998 -0.501624
+   0.000000  0.000000  0.000000  1.000000
+--- Metrics ---
+Rotation Error (deg): 0.111906
+Translation Error (m): 0.962123
+Chamfer Distance (m): 1.089909
+RMSE (m): 0.140440
+Fitness: 0.094419
+Inlier Count: 714
+Runtime (ms): 2239.464
+============================================================
+Timestamp: 2025-11-12 19:49:41
+Target PCD: /home/xchu/Downloads/ltloc-results/simulated_pc/shifted_cylinder/measured_cloud_shifted_cylinder.pcd
+Source PCD: <generated from target>
+Use FPFH: False
+Initial Pose: (0.2, 0.8, 0.5, 0.1, 0.1, 2.0)
+Force GT Identity: True
+Matcher Iterations: 30
+Normal KNN: 5, Search Radius: 1.0 m
+--- Transform ---
+   1.000000 -0.000229 -0.000229 -0.221956
+   0.000229  0.999999  0.000937 -0.793649
+   0.000228 -0.000937  0.999999 -0.510168
+   0.000000  0.000000  0.000000  1.000000
+--- Metrics ---
+Rotation Error (deg): 0.062557
+Translation Error (m): 0.969234
+Chamfer Distance (m): 1.094168
+RMSE (m): 0.140029
+Fitness: 0.091510
+Inlier Count: 692
+Runtime (ms): 2176.796
+============================================================
+Timestamp: 2025-11-23 13:09:06
+Target PCD: /home/xchu/Downloads/ltloc-results/simulated_pc/shifted_cylinder/measured_cloud_shifted_cylinder.pcd
+Source PCD: <generated from target>
+Use FPFH: False
+Initial Pose: (0.2, 0.8, 0.5, 0.1, 0.1, 2.0)
+Force GT Identity: True
+Matcher Iterations: 30
+Normal KNN: 5, Search Radius: 1.0 m
+--- Transform ---
+   0.999999  0.000170 -0.000639 -0.214350
+  -0.000169  0.999999  0.000950 -0.786272
+   0.000639 -0.000950  0.999999 -0.503239
+   0.000000  0.000000  0.000000  1.000000
+--- Metrics ---
+Rotation Error (deg): 0.092787
+Translation Error (m): 0.957820
+Chamfer Distance (m): 1.092104
+RMSE (m): 0.141204
+Fitness: 0.094023
+Inlier Count: 711
+Runtime (ms): 456.201
+============================================================
+Timestamp: 2025-11-23 13:09:35
+Target PCD: /home/xchu/Downloads/ltloc-results/simulated_pc/shifted_cylinder/measured_cloud_shifted_cylinder.pcd
+Source PCD: <generated from target>
+Use FPFH: True
+Initial Pose: (0.2, 0.8, 0.5, 0.1, 0.1, 2.0)
+Force GT Identity: True
+Matcher Iterations: 30
+Normal KNN: 5, Search Radius: 1.0 m
+--- Transform ---
+   0.999378  0.035226 -0.001849 -0.235203
+  -0.035223  0.999378  0.001922 -0.782733
+   0.001916 -0.001856  0.999996 -0.494762
+   0.000000  0.000000  0.000000  1.000000
+--- Metrics ---
+Rotation Error (deg): 2.024487
+Translation Error (m): 0.955396
+Chamfer Distance (m): 0.035827
+RMSE (m): 0.019425
+Fitness: 1.000000
+Inlier Count: 7562
+Runtime (ms): 398.545
